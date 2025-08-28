@@ -28,7 +28,7 @@ Com uma interface amigável, o app permite que clientes naveguem pelos produtos,
 
 ---
 
-## :rocket: Tecnologias
+## Tecnologias
 
 - [Node.js](https://nodejs.org/en/)  
 - [React](https://pt-br.reactjs.org/)  
