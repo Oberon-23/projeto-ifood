@@ -8,8 +8,6 @@
 ![React](https://img.shields.io/badge/react-18-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 [Acesse o projeto aqui](https://seuprojeto.netlify.app)
-
 ---
 
 ## Olá, me chamo Breno!
@@ -72,4 +70,8 @@ $ npm start
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 REACT_APP_API_BASE_URL=sua_url_api
 PORT=3000
+
+## Licença
+
+Este projeto está sob a licença MIT.
 
