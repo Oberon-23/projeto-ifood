@@ -1,80 +1,75 @@
-<div align="center" id="top"> 
-  <img width="512" height="512"  src="https://img.icons8.com/arcade/512/fast-food.png" alt="app-logo" />
-
-  &#xa0;
-
-  <!-- <a href="https://nativehelp.netlify.app">Demo</a> -->
+<div align="center"> 
+  <img width="512" height="512" src="https://img.icons8.com/arcade/512/fast-food.png" alt="app-logo" />
 </div>
 
-<h1 align="center">Food Commerce</h1>
+# 🍔 Food Commerce
 
+![Node](https://img.shields.io/badge/node-16.x-green)
+![React](https://img.shields.io/badge/react-18-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
-<p align="center">
-  <a href="#dart-about">Sobre Projeto</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Funcoes</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Startando Projeto</a> &#xa0; | &#xa0;
-</p>
+🔗 [Acesse o projeto aqui](https://seuprojeto.netlify.app)
 
-<br>
+---
 
-# Olá, me chamo Breno! 👋
+## 👋 Olá, me chamo Breno!
 
-## :dart: About ##
+### :dart: Sobre o Projeto
+Food Commerce é um aplicativo de pedidos de comida desenvolvido em **React**, projetado para oferecer uma experiência simples e intuitiva para os usuários.  
+Com uma interface amigável, o app permite que clientes naveguem pelos produtos, adicionem itens ao carrinho, realizem pedidos e acompanhem o status da entrega.
 
-Food Commerce é um aplicativo de pedidos de comida desenvolvido em React, projetado para oferecer uma experiência simples e intuitiva para os usuários solicitarem comida. Com uma interface amigável e atrativa, o aplicativo web  permite que os usuários naveguem por uma variedade de tipos de comidas , visualizem seus pedidos e itens que colocaram no carrinho, façam pedidos e acompanhem o status da entrega ate mesmo entrand em contato com a loja.
+---
 
-## :sparkles: Features ##
+## :sparkles: Funcionalidades
 
-:heavy_check_mark: Adicionar os lanches 
-:heavy_check_mark: Visualizar no carrinho
-:heavy_check_mark: Aplicacao Toda Responsiva 
-:heavy_check_mark: Gerencia o carrinho : exclui, adiciona , aumenta quantidade de determinado item e calcula mostrando o valor total
-:heavy_check_mark: Gera a ordem de pagamento usando api de pagamentos da Asaas(modo de ambiente de testes)
+- ✅ Adicionar lanches ao carrinho  
+- 🛒 Gerenciamento completo do carrinho (aumentar, excluir, calcular total)  
+- 📱 Layout totalmente responsivo  
+- 💳 Integração com API de pagamentos **Asaas** (modo sandbox)  
+- 👀 Visualização rápida dos pedidos feitos  
 
+---
 
-Tecnologias e Ferramentas usadas neste projeto
+## :rocket: Tecnologias
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Api de Pagamento da Asaas](https://www.asaas.com/)
-- [Yup Formularios Validator](https://github.com/jquense/yup)
-- [Styled-components](https://styled-components.com/)
-- [React Router](https://reactrouter.com/en/main)
+- [Node.js](https://nodejs.org/en/)  
+- [React](https://pt-br.reactjs.org/)  
+- [Typescript](https://www.typescriptlang.org/)  
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
+- [Asaas API](https://www.asaas.com/)  
+- [Yup (Formulários)](https://github.com/jquense/yup)  
+- [Styled-components](https://styled-components.com/)  
+- [React Router](https://reactrouter.com/en/main)  
 
-## :white_check_mark: Requirements ##
+---
 
-Para Iniciar :checkered_flag:, Voce deve ter o [Git](https://git-scm.com),[Node](https://nodejs.org/en/) instalados em sua maquina.
+## :white_check_mark: Requisitos
 
-## :checkered_flag: Clonando Projeto ##
+Antes de começar, você precisa ter instalado:  
+- [Git](https://git-scm.com)  
+- [Node.js](https://nodejs.org/en/)  
+
+---
+
+## :checkered_flag: Começando
 
 ```bash
-# Clone this project
-$ git clone 
+# Clone este repositório
+$ git clone https://github.com/seu-usuario/food-commerce.git
 
-# Access
-$ cd ifood-react
+# Acesse a pasta do projeto
+$ cd food-commerce
 
-# Install dependencies
-$ npm install 
+# Instale as dependências
+$ npm install
 
-# Run the project
-$ npm run start
-
+# Execute o projeto
+$ npm start
 ```
 
 ## ⚒️ Variáveis de Ambiente
 
-Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env
-
-`REACT_APP_API_BASE_URL`
-`PORT`
-
-
-## :memo: License ##
-
-Licenca [LICENSE](LICENSE.md)
+Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+REACT_APP_API_BASE_URL=sua_url_api
+PORT=3000
 
