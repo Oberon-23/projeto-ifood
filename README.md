@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Olá, me chamo Breno!
+## Olá, me chamo Breno!
 
 ### :dart: Sobre o Projeto
 Food Commerce é um aplicativo de pedidos de comida desenvolvido em **React**, projetado para oferecer uma experiência simples e intuitiva para os usuários.  
@@ -20,7 +20,7 @@ Com uma interface amigável, o app permite que clientes naveguem pelos produtos,
 
 ---
 
-## :sparkles: Funcionalidades
+## Funcionalidades
 
 - ✅ Adicionar lanches ao carrinho  
 - 🛒 Gerenciamento completo do carrinho (aumentar, excluir, calcular total)  
@@ -43,7 +43,7 @@ Com uma interface amigável, o app permite que clientes naveguem pelos produtos,
 
 ---
 
-## :white_check_mark: Requisitos
+## Requisitos
 
 Antes de começar, você precisa ter instalado:  
 - [Git](https://git-scm.com)  
@@ -51,7 +51,7 @@ Antes de começar, você precisa ter instalado:
 
 ---
 
-## :checkered_flag: Começando
+## Começando
 
 ```bash
 # Clone este repositório
@@ -67,7 +67,7 @@ $ npm install
 $ npm start
 ```
 
-## ⚒️ Variáveis de Ambiente
+## Variáveis de Ambiente
 
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
 REACT_APP_API_BASE_URL=sua_url_api
