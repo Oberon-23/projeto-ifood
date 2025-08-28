@@ -28,24 +28,24 @@ Com uma interface amigável, o app permite que clientes naveguem pelos produtos,
 
 ---
 
-## Tecnologias
+## Tecnologias Utilizadas
 
-- [Node.js](https://nodejs.org/en/)  
-- [React](https://pt-br.reactjs.org/)  
-- [Typescript](https://www.typescriptlang.org/)  
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)  
-- [Asaas API](https://www.asaas.com/)  
-- [Yup (Formulários)](https://github.com/jquense/yup)  
-- [Styled-components](https://styled-components.com/)  
-- [React Router](https://reactrouter.com/en/main)  
+- ⚛ **ReactJS** – Biblioteca para construção da interface  
+- 💻 **Typescript** – Superset do JavaScript para maior segurança no código  
+- 📜 **JavaScript** – Linguagem base do projeto  
+- 🎨 **Styled Components** – Estilização de componentes dinâmicos  
+- 🚦 **React Router** – Navegação entre páginas  
+- 📑 **Yup** – Validação de formulários  
+- 💳 **Asaas API** – Integração de pagamentos (modo sandbox)  
+- 🟢 **Node.js** – Ambiente de execução para desenvolvimento  
 
 ---
 
 ## Requisitos
 
-Antes de começar, você precisa ter instalado:  
-- [Git](https://git-scm.com)  
-- [Node.js](https://nodejs.org/en/)  
+Antes de começar, você precisa ter instalado na sua máquina:  
+- 🟢 [Git](https://git-scm.com) – Controle de versão  
+- 🟢 [Node.js](https://nodejs.org/en/) – Ambiente de execução do JavaScript  
 
 ---
 
