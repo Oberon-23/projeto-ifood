@@ -68,6 +68,7 @@ $ npm start
 ## Variáveis de Ambiente
 
 Crie um arquivo .env na raiz do projeto com as seguintes variáveis:
+
 REACT_APP_API_BASE_URL=sua_url_api
 PORT=3000
 
